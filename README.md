@@ -13,6 +13,8 @@
 
  ### 👀 Curiosity
  
+- focused on front-end development. 
+ 
 - I'm currently studying react native at rocketseat.
 
 <div>
